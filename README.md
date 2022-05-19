@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm PixTillz</h1>
 <h3 align="center">In development i'm the architecture guy !</h3>
 
-<h3 align="left">Connect with me on Discord: <i>PixTillz#4089</i></h3>
-<p align="left">
+<h3 align="left">Connect with me on Discord: <i>https://discordapp.com/users/232211356730785792/</i></h3>
+<p align="left">test
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
