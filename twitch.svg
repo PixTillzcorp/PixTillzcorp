@@ -81,10 +81,10 @@
 			</style>
 			<div class="container">
 				<p class="main">
-					<image class="icon" height="40" width="40"
+					<image class="icon" height="40" width="40" x="0" y="0"
 					xlink:href="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png"/>
 					You can see me streaming on Twitch sometimes !
-					<image class="icon" height="40" width="40"
+					<image class="icon" height="40" width="40" x="0" y="0"
 					xlink:href="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png"/>
 				</p>
 				<p class="sub">Click to see my twitch channel</p>
