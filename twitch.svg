@@ -81,9 +81,9 @@
 			</style>
 			<div class="container">
 				<p class="main">
-					<image height="40" width="40" class="icon" href="twitch.png"/>
+					<img alt="Twitch logo" height="40" width="40" class="icon" href="twitch.png"/>
 					You can see me streaming on Twitch sometimes !
-					<image height="40" width="40" class="icon" href="twitch.png"/>
+					<img alt="Twitch logo" height="40" width="40" class="icon" href="twitch.png"/>
 				</p>
 				<p class="sub">Click to see my twitch channel</p>
 			</div>
