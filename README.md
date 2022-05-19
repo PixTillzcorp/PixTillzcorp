@@ -24,7 +24,7 @@
 </div> -->
 <div align="center">
   <a href="https://www.twitch.tv/pixtillz" target="_blank" rel="noreferrer">
-    <img src="twitch.svg" width="800" height="400">
+    <img src="twitch.svg" width="600" height="80">
   </a>
 </div>
 <!-- 
