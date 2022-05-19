@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm PixTillz</h1>
 <h3 align="center">In development i'm the architecture guy !</h3>
 
-<h3 align="left">Connect with me on Discord: <i>https://discordapp.com/users/232211356730785792/</i> [PixTillz#4089]</h3>
-<p align="left">test
+<h3 align="left">Connect with me on Discord: <i>https://discordapp.com/users/232211356730785792/</i> -> [PixTillz#4089]</h3>
+<p align="left">
+  <spoiler>You can join my Discord server here: <i>https://discord.gg/w9FxSX7</i></spoiler>
+</p>
+<p align="left">
+  <spoiler>You can see me streaming on Twitch sometimes: <i>https://www.twitch.tv/pixtillz</i></spoiler>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
