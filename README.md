@@ -19,10 +19,9 @@
   You can join my Discord server here: <i>https://discord.gg/w9FxSX7</i>
 </p>
 <p align="left">
-    <a href="https://www.twitch.tv/pixtillz" target="_blank" rel="noreferrer"
-    style="border: 3px solid black; border-radius: 50%;">
+    <a href="https://www.twitch.tv/pixtillz" target="_blank" rel="noreferrer">
         <img src="https://pbs.twimg.com/profile_images/1290231731056971776/67hU0Sgv_400x400.png"
-        width="40" height="40"/>
+        width="40" height="40" style="border: 3px solid black; border-radius: 50%;"/>
     </a>
     <i>https://www.twitch.tv/pixtillz</i> (You can see me streaming here sometimes 🌱)
 </p>
