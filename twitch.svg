@@ -81,9 +81,11 @@
 			</style>
 			<div class="container">
 				<p class="main">
-					<image class="icon" href="https://pbs.twimg.com/profile_images/1290231731056971776/67hU0Sgv_400x400.png"/>
+					<image class="icon" height="40" width="40"
+					href="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png"/>
 					You can see me streaming on Twitch sometimes !
-					<image class="icon" href="https://pbs.twimg.com/profile_images/1290231731056971776/67hU0Sgv_400x400.png"/>
+					<image class="icon" height="40" width="40"
+					href="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png"/>
 				</p>
 				<p class="sub">Click to see my twitch channel</p>
 			</div>
