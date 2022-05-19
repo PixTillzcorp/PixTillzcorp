@@ -7,7 +7,7 @@
 </p>
 <p align="left">
   <a href="https://www.twitch.tv/pixtillz" target="_blank" rel="noreferrer">
-    <img src="https://www.twitch.tv/favicon.ico" width="40" height="40"/>
+    <img src="https://pbs.twimg.com/profile_images/1290231731056971776/67hU0Sgv_400x400.png" width="40" height="40" style="border: 3px solid black;     border-radius: 50%;"/>
   </a> <i>https://www.twitch.tv/pixtillz</i> (You can see me streaming here sometimes 🌱)
 </p>
 
