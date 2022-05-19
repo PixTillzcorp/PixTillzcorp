@@ -6,7 +6,9 @@
   <spoiler>You can join my Discord server here: <i>https://discord.gg/w9FxSX7</i></spoiler>
 </p>
 <p align="left">
-  <spoiler><i>https://www.twitch.tv/pixtillz</i> (You can see me streaming here sometimes 🌱)</spoiler>
+  <a href="https://www.twitch.tv/pixtillz" target="_blank" rel="noreferrer">
+    <img src="https://www.twitch.tv/favicon.ico" width="40" height="40"/>
+  </a> <i>https://www.twitch.tv/pixtillz</i> (You can see me streaming here sometimes 🌱)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
