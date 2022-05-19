@@ -12,17 +12,32 @@
 <h1 align="center">Hi 👋, I'm PixTillz</h1>
 <h3 align="center">As a programmer i'm the architecture guy !</h3>
 
+<!-- <div align="center">
+  <a href="https://discordapp.com/users/232211356730785792/" target="_blank" rel="noreferrer">
+    <img src="discord_profile.svg" width="800" height="400">
+  </a>
+</div>
+<div align="center">
+  <a href="https://discord.gg/w9FxSX7" target="_blank" rel="noreferrer">
+    <img src="discord_server.svg" width="800" height="400">
+  </a>
+</div> -->
+<div align="center">
+  <a href="https://www.twitch.tv/pixtillz" target="_blank" rel="noreferrer">
+    <img src="twitch.svg" width="800" height="400">
+  </a>
+</div>
+<!-- 
 <h3 align="left">Connect with me through Discord:
   <i>https://discordapp.com/users/232211356730785792/</i> -> [PixTillz#4089]</h3>
-  
 <p align="left">
   You can join my Discord server here: <i>https://discord.gg/w9FxSX7</i>
 </p>
 <p align="left">
     <a href="https://www.twitch.tv/pixtillz" target="_blank" rel="noreferrer">
         <img src="https://pbs.twimg.com/profile_images/1290231731056971776/67hU0Sgv_400x400.png"
-        width="40" height="40" style="border: 3px solid black; border-radius: 50%;"/>
+        width="40" height="40"/>
     </a>
     <i>https://www.twitch.tv/pixtillz</i> (You can see me streaming here sometimes 🌱)
-</p>
+</p> -->
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
