@@ -61,7 +61,7 @@
 				}
 
 				.main {
-					font-size: 18px;
+					font-size: 20px;
 					text-shadow:
 						0 1px 0 #efefef,
 						0 2px 0 #efefef,
@@ -75,9 +75,20 @@
 					text-shadow: 0 1px 0 #efefef;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
+
+				.icon {
+					border: 3px solid black;
+					border-radius: 50%;
+				}
 			</style>
 			<div class="container">
-				<p class="main">🌱 You can see me streaming on Twitch sometimes 🌱</p>
+				<p class="main">
+					<img src="https://pbs.twimg.com/profile_images/1290231731056971776/67hU0Sgv_400x400.png"
+					width="40" height="40" class="icon">
+					You can see me streaming on Twitch sometimes !
+					<img src="https://pbs.twimg.com/profile_images/1290231731056971776/67hU0Sgv_400x400.png"
+					width="40" height="40" class="icon">
+				</p>
 				<p class="sub">Click to see my twitch channel</p>
 			</div>
 		</div>
