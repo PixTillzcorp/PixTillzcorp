@@ -81,13 +81,13 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 				}
 			</style>
 			<div class="container">
+				<image alt="Twitch logo" height="40" width="40" class="icon"
+				xlink:href="https://pbs.twimg.com/profile_images/1290231731056971776/67hU0Sgv_400x400.png"/>
 				<p class="main">
-					<image alt="Twitch logo" height="40" width="40" class="icon"
-					xlink:href="https://pbs.twimg.com/profile_images/1290231731056971776/67hU0Sgv_400x400.png"/>
 					You can see me streaming on Twitch sometimes !
-					<image alt="Twitch logo" height="40" width="40" class="icon"
-					xlink:href="https://pbs.twimg.com/profile_images/1290231731056971776/67hU0Sgv_400x400.png"/>
 				</p>
+				<image alt="Twitch logo" height="40" width="40" class="icon"
+				xlink:href="https://pbs.twimg.com/profile_images/1290231731056971776/67hU0Sgv_400x400.png"/>
 				<p class="sub">Click to see my twitch channel</p>
 			</div>
 		</div>
