@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PixTillz</h1>
 <h3 align="center">In development i'm the architecture guy !</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on Discord: <i>PixTillz#4089</i></h3>
 <p align="left">
 </p>
 
