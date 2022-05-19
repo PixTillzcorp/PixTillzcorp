@@ -10,7 +10,7 @@
 
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~[ Introduction ]~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <h1 align="center">Hi 👋, I'm PixTillz</h1>
-<h3 align="left">As a programmer i'm the architecture guy !</h3>
+<h3 align="center">As a programmer i'm the architecture guy !</h3>
 
 <h3 align="left">Connect with me through Discord:
   <i>https://discordapp.com/users/232211356730785792/</i> -> [PixTillz#4089]</h3>
