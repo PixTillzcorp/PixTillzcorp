@@ -63,17 +63,12 @@
 
 				.main {
 					font-size: 20px;
-					text-shadow:
-						0 1px 0 #efefef,
-						0 2px 0 #efefef,
-						0 3px 0 #efefef,
-						0 4px 0 #efefef,
-						0 6px 2px rgba(0, 0, 0, 0.1);
+					text-shadow: 0 1px 0 black;
 				}
 
 				.sub {
 					font-size: 14px;
-					text-shadow: 0 1px 0 #efefef;
+					text-shadow: 0 1px 0 black;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
 
