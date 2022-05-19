@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 <h1 align="center">Hi 👋, I'm PixTillz</h1>
 <h3 align="center">In development i'm the architecture guy !</h3>
 
@@ -6,7 +7,7 @@
   <spoiler>You can join my Discord server here: <i>https://discord.gg/w9FxSX7</i></spoiler>
 </p>
 <p align="left">
-  <spoiler>You can see me streaming on Twitch sometimes: <i>https://www.twitch.tv/pixtillz</i></spoiler>
+  <spoiler><i class="fa fa-twitch fa-5x"></i><i>https://www.twitch.tv/pixtillz</i> (You can see me streaming here sometimes 🌱)</spoiler>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
