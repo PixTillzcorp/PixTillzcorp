@@ -12,16 +12,16 @@
 <h1 align="center">Hi 👋, I'm PixTillz</h1>
 <h3 align="center">As a programmer i'm the architecture guy !</h3>
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://discordapp.com/users/232211356730785792/" target="_blank" rel="noreferrer">
-    <img src="discord_profile.svg" width="800" height="400">
+    <img src="discord_profile.svg" width="600" height="80">
   </a>
 </div>
 <div align="center">
   <a href="https://discord.gg/w9FxSX7" target="_blank" rel="noreferrer">
-    <img src="discord_server.svg" width="800" height="400">
+    <img src="discord_server.svg" width="600" height="80">
   </a>
-</div> -->
+</div>
 <div align="center">
   <a href="https://www.twitch.tv/pixtillz" target="_blank" rel="noreferrer">
     <img src="twitch.svg" width="600" height="80">

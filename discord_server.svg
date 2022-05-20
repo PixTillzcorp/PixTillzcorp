@@ -1,0 +1,120 @@
+<svg fill="none" viewBox="0 0 600 100" width="600" height="80"
+xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				@keyframes gradientBackground {
+					0% { background-position: 0% 50%; }
+					50% { background-position: 100% 50%; }
+					100% { background-position: 0% 50%; }
+				}
+
+				.main {
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+					display: flex;
+					align-items: center;
+					justify-content: space-between;
+					font-size: 20px;
+					text-shadow: 0 1px 0 black;
+					margin: 0;
+					width: 100%
+					height: 80px;
+					border: 5px solid black;
+					border-radius: 10px;
+					background: linear-gradient(-45deg, #000000, #9e5dc8, #ff6693);
+					background-size: 400% 300%;
+					animation: -250ms gradientBackground 10s ease infinite;
+					color: white;
+					text-align: center;
+				}
+
+				.icon {
+					border: 3px solid black;
+					background-image: url('data:image/png;base64,iVBORw0KGgoAAA\
+					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\
+					BJRU5ErkJggg==');
+					background-size: contain;
+					border-radius: 50%;
+					margin: 15px;
+					width: 40px;
+					height: 40px;
+				}
+			</style>	
+			<div class="main">
+				<div alt="Discord logo" height="40" width="40" class="icon"/>
+				<div style="width: 440px;">
+					<u>Join my discord server !</u>
+				</div>
+				<div alt="Discord logo" height="40" width="40" class="icon"/>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
