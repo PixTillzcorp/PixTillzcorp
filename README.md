@@ -69,7 +69,7 @@
           ", I am currently working on a DeFi bot with my friends ! I like "
           "to write (sexy-looking) code that scales well !"),
           langages{ "C", "C++", "python", "Brainf_ck", "Solidity" },
-          hobbies{ "Basket Ball", "Crypto trading", "Mecanics & Handiwork",\
+          hobbies{ "Basket Ball", "Crypto trading", "Mechanics & Handiwork",\
               "Astronomy & Rockets", "Competitive video games",\
               "Terminal game development with ncurses"} {
     }
@@ -98,7 +98,7 @@ I can currently build projects with :
 My hobbies and things I do in my spare time are:
 	- Basket Ball
 	- Crypto trading
-	- Mecanics & Handiwork
+	- Mechanics & Handiwork
 	- Astronomy & Rockets
 	- Competitive video games
 	- Terminal game development with ncurses
