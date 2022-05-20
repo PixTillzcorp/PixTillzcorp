@@ -28,19 +28,10 @@
     <img src="twitch.svg" width="600px" height="80">
   </a>
 </div>
-<!-- 
-<h3 align="left">Connect with me through Discord:
-  <i>https://discordapp.com/users/232211356730785792/</i> -> [PixTillz#4089]</h3>
-<p align="left">
-  You can join my Discord server here: <i>https://discord.gg/w9FxSX7</i>
-</p>
-<p align="left">
-    <a href="https://www.twitch.tv/pixtillz" target="_blank" rel="noreferrer">
-        <img src="https://pbs.twimg.com/profile_images/1290231731056971776/67hU0Sgv_400x400.png"
-        width="40" height="40"/>
-    </a>
-    <i>https://www.twitch.tv/pixtillz</i> (You can see me streaming here sometimes 🌱)
-</p> -->
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-<h1></h1>
+
+<h1></h1> <!-- Transition bar -->
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~[ Description ]~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
