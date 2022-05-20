@@ -9,15 +9,14 @@
 **____________________________________________________________________________**
 **                                                                            **
 **----- Author --------------{ PixTillz }-------------------------------------**
-**----- File ----------------{ tmp.cpp }--------------------------------------**
-**----- Created -------------{ 2022-05-20 04:04:18 }--------------------------**
-**----- Updated -------------{ 2022-05-20 05:01:24 }--------------------------**
+**----- File ----------------{ description.cpp }------------------------------**
 ********************************************************************************
 */
 
 # include <iostream>
 # include <list>
 
+// ~~~~~~~
 class Programmer {
 public:
 	std::string	src;
@@ -30,7 +29,10 @@ public:
 private:
 	Programmer();
 };
+// ~~~~~~~
 
+
+// ~~~~~~~
 class PixTillz : public Programmer {
 public:
 	typedef Programmer				inherited;
@@ -68,7 +70,10 @@ public:
 						"Terminal game development with ncurses"} {
 	}
 };
+// ~~~~~~~
 
+
+// ~~~~~~~
 std::ostream	&operator<<(std::ostream &flux, PixTillz const &src) {
 	flux << "My Pseudo is \'" << src.name << "\' and I\'m a " << src.nationality;
 	flux << " developer from \'" << src.src << "\' !" << std::endl;
@@ -79,10 +84,15 @@ std::ostream	&operator<<(std::ostream &flux, PixTillz const &src) {
 	for (auto &&it : src.hobbies) { flux << "\t- " << it << std::endl; }
 	return flux;
 }
+// ~~~~~~~
 
+// #############################################################################
+
+// ~~~~~~~
 int main(void) {
 
 	std::cout << PixTillz() << std::endl;
 
 	return 0;
 }
+// ~~~~~~~
