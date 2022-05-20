@@ -85,7 +85,10 @@
 
 ```
 My Pseudo is 'PixTillz' and I'm a French developer from '42 Paris' !
-I'm a creative person who loves to explore new skill fields. Motivated to become an active member of WEB3 development, I am currently working on a DeFi bot with my friends ! I like to write (sexy-looking) code that scales !
+I'm a creative person who loves to explore new skill fields.
+Motivated to become an active member of WEB3 development,
+I am currently working on a DeFi bot with my friends !
+I like to write (sexy-looking) code that scales !
 I can currently build projects with :
 	- C
 	- C++
