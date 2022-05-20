@@ -70,8 +70,8 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 			</style>	
 			<div class="main">
 				<div alt="Twitch logo" height="40" width="40" class="icon"/>
-				<div style="width: 440px;">
-					<u>You can see me streaming on Twitch sometimes !</u>
+				<div style="width: 440px; font-size: 25px;">
+					<u>You can follow me streaming on Twitch !</u>
 				</div>
 				<div alt="Twitch logo" height="40" width="40" class="icon"/>
 			</div>

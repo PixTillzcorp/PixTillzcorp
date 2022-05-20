@@ -87,7 +87,7 @@ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 			</style>	
 			<div class="main">
 				<div alt="Discord logo" height="40" width="40" class="icon"/>
-				<div style="width: 440px;">
+				<div style="width: 440px; font-size: 25px;">
 					<u>Connect with me through Discord !</u>
 				</div>
 				<div alt="Discord logo" height="40" width="40" class="icon"/>
