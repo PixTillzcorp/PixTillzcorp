@@ -34,4 +34,46 @@
 
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~[ Description ]~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
+### How I describe myself through a C++ class
+
+```C++
+  class PixTillz : public Programmer {
+  public:
+    typedef Programmer				inherited;
+    typedef std::list<std::string>	strlist;
+
+    std::string	name;
+    std::string	nationality;
+    std::string	intro;
+    strlist		langages;
+    strlist		hobbies;
+
+    virtual ~PixTillz() {}
+    PixTillz(PixTillz const &cpy) : inherited(static_cast<inherited const &>(cpy)),
+                    name(cpy.name), nationality(cpy.nationality),
+                    intro(cpy.intro), langages(cpy.langages),
+                    hobbies(cpy.hobbies) {}
+    PixTillz &operator=(PixTillz const &cpy) {
+      static_cast<inherited &>(*this) = static_cast<inherited const &>(cpy);
+      name = cpy.name;
+      nationality = cpy.nationality;
+      intro = cpy.intro;
+      langages = cpy.langages;
+      hobbies = cpy.hobbies;
+      return *this;
+    }
+
+    PixTillz() : inherited("42 Paris"), name("PixTillz"), nationality("French"),
+          intro("I'm a creative person who loves to explore new skill "
+          "fields. Motivated to become an active member of WEB3 development"
+          ", I am currently working on a DeFi bot with my friends ! I like "
+          "to write (sexy-looking) code that scales well !"),
+          langages{ "C", "C++", "python", "Brainf_ck", "Solidity" },
+          hobbies{ "Basket Ball", "Crypto trading", "Mecanics & Handiwork",\
+              "Astronomy & Rockets", "Competitive video games",\
+              "Terminal game development with ncurses"} {
+    }
+  };
+```
+
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
