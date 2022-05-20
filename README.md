@@ -15,17 +15,17 @@
 <!--For the next elements all the logic is inside the .svg files -->
 <div align="center">
   <a href="https://discordapp.com/users/232211356730785792/" target="_blank" rel="noreferrer">
-    <img src="discord_profile.svg" width="600" height="80">
+    <img src="discord_profile.svg" width="100%" height="80">
   </a>
 </div>
 <div align="center">
   <a href="https://discord.gg/w9FxSX7" target="_blank" rel="noreferrer">
-    <img src="discord_server.svg" width="600" height="80">
+    <img src="discord_server.svg" width="100%" height="80">
   </a>
 </div>
 <div align="center">
   <a href="https://www.twitch.tv/pixtillz" target="_blank" rel="noreferrer">
-    <img src="twitch.svg" width="600" height="80">
+    <img src="twitch.svg" width="100%" height="80">
   </a>
 </div>
 <!-- 
