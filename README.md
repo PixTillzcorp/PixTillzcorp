@@ -13,7 +13,7 @@
 <h3 align="center">As a programmer i'm the <em>'architecture guy'</em> !</h3>
 
 <!--For the next elements all the logic is inside the .svg files -->
-<div align="center">
+<div align="center" height="45">
   <a href="https://discordapp.com/users/232211356730785792/" target="_blank" rel="noreferrer">
     <img src="discord_profile.svg" width="600px" height="80">
   </a>
