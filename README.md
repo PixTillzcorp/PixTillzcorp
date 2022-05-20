@@ -9,9 +9,10 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~[ Introduction ]~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-<h1 align="center">Hi 👋, I'm PixTillz</h1>
+<h1 align="center">Hi 👋, I'm <img src="pixtillz.svg" width="120" height="80"/></h1>
 <h3 align="center">As a programmer i'm the architecture guy !</h3>
 
+<!--For the next elements all the logic is inside the .svg files -->
 <div align="center">
   <a href="https://discordapp.com/users/232211356730785792/" target="_blank" rel="noreferrer">
     <img src="discord_profile.svg" width="600" height="80">
