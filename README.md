@@ -34,19 +34,19 @@
 
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~[ Description ]~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
-### How I describe myself through a C++ class
+### How I describe myself through a C++ class ...
 
 ```C++
   class PixTillz : public Programmer {
   public:
-    typedef Programmer				inherited;
-    typedef std::list<std::string>	strlist;
+    typedef Programmer              inherited;
+    typedef std::list<std::string>  strlist;
 
-    std::string	name;
-    std::string	nationality;
-    std::string	intro;
-    strlist		langages;
-    strlist		hobbies;
+    std::string                     name;
+    std::string                     nationality;
+    std::string                     intro;
+    strlist                         langages;
+    strlist                         hobbies;
 
     virtual ~PixTillz() {}
     PixTillz(PixTillz const &cpy) : inherited(static_cast<inherited const &>(cpy)),
@@ -74,6 +74,31 @@
               "Terminal game development with ncurses"} {
     }
   };
+```
+### ... inside 'description.cpp' that you can compile with the following command ...
+
+```
+  g++ -std=c++11 desciption.cpp
+```
+
+### ... and get my description as an output 🌱
+
+```
+My Pseudo is 'PixTillz' and I'm a French developer from '42 Paris' !
+I'm a creative person who loves to explore new skill fields. Motivated to become an active member of WEB3 development, I am currently working on a DeFi bot with my friends ! I like to write (sexy-looking) code that scales !
+I can currently build projects with :
+	- C
+	- C++
+	- python
+	- Brainf_ck
+	- Solidity
+My hobbies and things I do in my spare time are:
+	- Basket Ball
+	- Crypto trading
+	- Mecanics & Handiwork
+	- Astronomy & Rockets
+	- Competitive video games
+	- Terminal game development with ncurses
 ```
 
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
