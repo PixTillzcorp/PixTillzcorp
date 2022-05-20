@@ -9,7 +9,7 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~[ Introduction ]~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-<h1 align="center">Hi 👋, I'm <img align="center" src="pixtillz.svg" width="120" height="80"/></h1>
+<h1 align="justify">Hi 👋, I'm <img align="justify" src="pixtillz.svg" width="120" height="80"/></h1>
 <h3 align="center">As a programmer i'm the architecture guy !</h3>
 
 <!--For the next elements all the logic is inside the .svg files -->
