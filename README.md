@@ -34,7 +34,7 @@
 
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~[ Description ]~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
-### How I describe myself through a C++ class ...
+#### How I describe myself through a C++ class ...
 
 ```C++
   class PixTillz : public Programmer {
@@ -75,13 +75,13 @@
     }
   };
 ```
-### ... inside 'description.cpp' that you can compile with the following command ...
+#### ... inside 'description.cpp' that you can compile with the following command ...
 
 ```
   g++ -std=c++11 desciption.cpp
 ```
 
-### ... and get my description as an output 🌱
+#### ... and get my description as an output 🌱
 
 ```
 My Pseudo is 'PixTillz' and I'm a French developer from '42 Paris' !
