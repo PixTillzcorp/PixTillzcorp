@@ -78,7 +78,7 @@
 #### ... inside 'description.cpp' that you can compile with the following command ...
 
 ```
-  g++ -std=c++11 desciption.cpp
+  g++ -std=c++11 description.cpp
 ```
 
 #### ... and get my description as an output 🌱
