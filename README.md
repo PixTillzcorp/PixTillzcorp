@@ -34,7 +34,7 @@
 
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~[ Description ]~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
-### How I describe myself through a C++ class ...
+#### How I describe myself through a C++ class ...
 
 ```C++
   class PixTillz : public Programmer {
@@ -69,23 +69,26 @@
           ", I am currently working on a DeFi bot with my friends ! I like "
           "to write (sexy-looking) code that scales well !"),
           languages{ "C", "C++", "python", "Brainf_ck", "Solidity" },
-          hobbies{ "Basket Ball", "Crypto trading", "Mecanics & Handiwork",\
+          hobbies{ "Basket Ball", "Crypto trading", "Mechanics & Handiwork",\
               "Astronomy & Rockets", "Competitive video games",\
               "Terminal game development with ncurses"} {
     }
   };
 ```
-### ... inside 'description.cpp' that you can compile with the following command ...
+#### ... inside 'description.cpp' that you can compile with the following command ...
 
 ```
-  g++ -std=c++11 desciption.cpp
+  g++ -std=c++11 description.cpp
 ```
 
-### ... and get my description as an output 🌱
+#### ... and get my description as an output 🌱
 
 ```
 My Pseudo is 'PixTillz' and I'm a French developer from '42 Paris' !
-I'm a creative person who loves to explore new skill fields. Motivated to become an active member of WEB3 development, I am currently working on a DeFi bot with my friends ! I like to write (sexy-looking) code that scales !
+I'm a creative person who loves to explore new skill fields.
+Motivated to become an active member of WEB3 development,
+I am currently working on a DeFi bot with my friends !
+I like to write (sexy-looking) code that scales !
 I can currently build projects with :
 	- C
 	- C++
@@ -95,7 +98,7 @@ I can currently build projects with :
 My hobbies and things I do in my spare time are:
 	- Basket Ball
 	- Crypto trading
-	- Mecanics & Handiwork
+	- Mechanics & Handiwork
 	- Astronomy & Rockets
 	- Competitive video games
 	- Terminal game development with ncurses
