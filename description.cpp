@@ -41,20 +41,20 @@ public:
 	std::string	name;
 	std::string	nationality;
 	std::string	intro;
-	strlist		langages;
+	strlist		languages;
 	strlist		hobbies;
 
 	virtual ~PixTillz() {}
 	PixTillz(PixTillz const &cpy) : inherited(static_cast<inherited const &>(cpy)),
 									name(cpy.name), nationality(cpy.nationality),
-									intro(cpy.intro), langages(cpy.langages),
+									intro(cpy.intro), languages(cpy.languages),
 									hobbies(cpy.hobbies) {}
 	PixTillz &operator=(PixTillz const &cpy) {
 		static_cast<inherited &>(*this) = static_cast<inherited const &>(cpy);
 		name = cpy.name;
 		nationality = cpy.nationality;
 		intro = cpy.intro;
-		langages = cpy.langages;
+		languages = cpy.languages;
 		hobbies = cpy.hobbies;
 		return *this;
 	}
@@ -64,7 +64,7 @@ public:
 				"fields. Motivated to become an active member of WEB3 development"
 				", I am currently working on a DeFi bot with my friends ! I like "
 				"to write (sexy-looking) code that scales well !"),
-				langages{ "C", "C++", "python", "Brainf_ck", "Solidity" },
+				languages{ "C", "C++", "python", "Brainf_ck", "Solidity" },
 				hobbies{ "Basket Ball", "Crypto trading", "Mecanics & Handiwork",\
 						"Astronomy & Rockets", "Competitive video games",\
 						"Terminal game development with ncurses"} {
@@ -79,7 +79,7 @@ std::ostream	&operator<<(std::ostream &flux, PixTillz const &src) {
 	flux << " developer from \'" << src.src << "\' !" << std::endl;
 	flux << src.intro << std::endl;
 	flux << "I can currently build projects with :\n";
-	for (auto &&it : src.langages) { flux << "\t- " << it << std::endl; }
+	for (auto &&it : src.languages) { flux << "\t- " << it << std::endl; }
 	flux << "My hobbies and things I do in my spare time are:\n";
 	for (auto &&it : src.hobbies) { flux << "\t- " << it << std::endl; }
 	return flux;
